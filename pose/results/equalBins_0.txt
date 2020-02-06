@@ -1,0 +1,20 @@
+Test RMSE: Pitch, 4.2062, Yaw, 4.7249, Roll, 3.7389, Mean: 4.2233, Test MAE: Pitch, 2.5855, Yaw, 3.0867, Roll, 2.2464, Mean, 2.6395
+Test RMSE: Pitch, 4.107, Yaw, 4.8369, Roll, 4.2252, Mean: 4.3897, Test MAE: Pitch, 2.6114, Yaw, 3.1943, Roll, 2.3791, Mean, 2.7283
+Test RMSE: Pitch, 3.9988, Yaw, 4.5525, Roll, 4.3574, Mean: 4.3029, Test MAE: Pitch, 2.5799, Yaw, 3.0781, Roll, 2.4226, Mean, 2.6935
+Test RMSE: Yaw, 4.903, Pitch, 4.7976, Roll, 3.6713, Mean: 4.4573, Test MAE: Yaw, 2.8525, Pitch, 3.1616, Roll, 2.2186, Mean, 2.7442
+Test RMSE: Yaw, 3.8663, Pitch, 5.0365, Roll, 4.2707, Mean: 4.3912, Test MAE: Yaw, 2.5355, Pitch, 3.217, Roll, 2.3738, Mean, 2.7088
+Test RMSE: Yaw, 4.2184, Pitch, 4.9923, Roll, 4.4738, Mean: 4.5615, Test MAE: Yaw, 2.6307, Pitch, 3.1663, Roll, 2.469, Mean, 2.7553
+Test RMSE: Yaw, 4.1186, Pitch, 5.6192, Roll, 3.7093, Mean: 4.4824, Test MAE: Yaw, 2.6632, Pitch, 3.1499, Roll, 2.2256, Mean, 2.6796
+Test RMSE: Yaw, 4.0866, Pitch, 5.0142, Roll, 4.1689, Mean: 4.4232, Test MAE: Yaw, 2.4578, Pitch, 3.1365, Roll, 2.3141, Mean, 2.6361
+Test RMSE: Yaw, 4.4666, Pitch, 4.7866, Roll, 3.7921, Mean: 4.3484, Test MAE: Yaw, 2.7719, Pitch, 3.0862, Roll, 2.2592, Mean, 2.7058
+Test RMSE: Yaw, 4.099, Pitch, 4.3676, Roll, 4.0057, Mean: 4.1575, Test MAE: Yaw, 2.5901, Pitch, 2.9423, Roll, 2.4306, Mean, 2.6543
+
+
+params.optimizer = 'adam';
+params.miniBatchSize = 32;
+params.L2reg = 0.001;
+params.lr = 0.0005;  
+params.lrDropRate = 0.1; 
+params.lrDropPeriod = 10;
+params.validationFreq = 300;
+params.maxEpochs = 30;

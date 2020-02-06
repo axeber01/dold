@@ -1,0 +1,10 @@
+Test RMSE: Yaw, 4.209, Pitch, 4.6836, Roll, 4.3998, Mean: 4.4308, Test MAE: Yaw, 2.6201, Pitch, 3.17, Roll, 2.4509, Mean, 2.747
+Test RMSE: Yaw, 4.3043, Pitch, 4.9429, Roll, 4.139, Mean: 4.4621, Test MAE: Yaw, 2.8201, Pitch, 3.2606, Roll, 2.4478, Mean, 2.8428
+Test RMSE: Yaw, 4.5181, Pitch, 4.9536, Roll, 4.0266, Mean: 4.4994, Test MAE: Yaw, 2.7203, Pitch, 3.1734, Roll, 2.3414, Mean, 2.745
+Test RMSE: Yaw, 4.7894, Pitch, 5.0773, Roll, 4.3865, Mean: 4.7511, Test MAE: Yaw, 2.7752, Pitch, 3.2256, Roll, 2.5771, Mean, 2.8593
+Test RMSE: Yaw, 4.4833, Pitch, 4.8645, Roll, 4.4405, Mean: 4.5961, Test MAE: Yaw, 2.9607, Pitch, 3.2203, Roll, 2.4475, Mean, 2.8762
+Test RMSE: Yaw, 4.5815, Pitch, 4.6297, Roll, 4.7939, Mean: 4.6684, Test MAE: Yaw, 2.9513, Pitch, 3.2023, Roll, 2.627, Mean, 2.9268
+Test RMSE: Yaw, 4.6684, Pitch, 4.9361, Roll, 4.1029, Mean: 4.5691, Test MAE: Yaw, 2.7993, Pitch, 3.2258, Roll, 2.4326, Mean, 2.8192
+Test RMSE: Yaw, 4.9151, Pitch, 4.5389, Roll, 4.5607, Mean: 4.6716, Test MAE: Yaw, 2.9346, Pitch, 3.0926, Roll, 2.5629, Mean, 2.8634
+Test RMSE: Yaw, 4.701, Pitch, 4.6428, Roll, 4.3011, Mean: 4.5483, Test MAE: Yaw, 2.9385, Pitch, 3.1646, Roll, 2.4434, Mean, 2.8488
+Test RMSE: Yaw, 4.8017, Pitch, 5.393, Roll, 4.2974, Mean: 4.8307, Test MAE: Yaw, 2.9552, Pitch, 3.419, Roll, 2.469, Mean, 2.9477
