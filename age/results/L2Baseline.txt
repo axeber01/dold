@@ -1,0 +1,10 @@
+Test RMSE, 6.1346, Test MAE, 4.5826
+Test RMSE, 6.1727, Test MAE, 4.58
+Test RMSE, 6.11, Test MAE, 4.5672
+Test RMSE, 6.1946, Test MAE, 4.6154
+Test RMSE, 6.2293, Test MAE, 4.6131
+Test RMSE, 6.1805, Test MAE, 4.6252
+Test RMSE, 6.2218, Test MAE, 4.5972
+Test RMSE, 6.245, Test MAE, 4.6222
+Test RMSE, 6.1334, Test MAE, 4.5901
+Test RMSE, 6.2011, Test MAE, 4.6319
