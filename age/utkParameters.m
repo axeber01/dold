@@ -20,5 +20,7 @@ params.lrDropRate = 0.1;
 params.lrDropPeriod = 10;
 params.validationFreq = 300;
 params.maxEpochs = 30;
+params.lambda = 0.01;
+params.weights = [1, 2, 3, 4];
 
 end
