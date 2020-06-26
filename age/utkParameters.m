@@ -2,7 +2,7 @@ function params = utkParameters()
 
 %% Data path
 % Full training set, no validation
-params.dataPath = '/usr/vision/axelb/vpRegression/ageProj/utkDsCroppedFull.mat';
+params.dataPath = 'data/utkDsCroppedFull.mat';
 
 %% Data augmentation
 % These are predefined in the trainDs

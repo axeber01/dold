@@ -1,8 +1,8 @@
 function params = biwiParameters()
 
 %% Data path
-params.trainPath = '/usr/matematik/axelb/dold/pose/data/train.mat';
-params.testPath = '/usr/matematik/axelb/dold/pose/data/test.mat';
+params.trainPath = 'data/train.mat';
+params.testPath = 'data/test.mat';
 
 %% Data augmentation
 params.randXTranslation = [-20, 20];
