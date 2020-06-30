@@ -2,9 +2,16 @@
 
 ![](./dold.png)
 
-This is the official codebase for the implementation of "Deep Ordinal Regression with Label Diversity".
 
-If you find this work useful, please cite our paper:
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/deep-ordinal-regression-with-label-diversity/head-pose-estimation-on-biwi)](https://paperswithcode.com/sota/head-pose-estimation-on-biwi?p=deep-ordinal-regression-with-label-diversity)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/deep-ordinal-regression-with-label-diversity/age-estimation-on-utkface)](https://paperswithcode.com/sota/age-estimation-on-utkface?p=deep-ordinal-regression-with-label-diversity)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/deep-ordinal-regression-with-label-diversity/historical-color-image-dating-on-hci)](https://paperswithcode.com/sota/historical-color-image-dating-on-hci?p=deep-ordinal-regression-with-label-diversity)
+
+This is the official codebase for the implementation of **[Deep Ordinal Regression with Label Diversity](https://arxiv.org/abs/2006.15864)**, accepted to ICPR2020.
+
+Code author: Axel Berg
 
 ## Dependencies
 * Matlab 2020a with the Deep Learning Toolbox
@@ -35,6 +42,20 @@ The following loss functions are supported:
 * Equal Bins - use the equal bins label diversity method
 * Random Bins - use the random bins label diversity methods.
 * Multiple bins (for the HCI dataset) - uses the multiple bins labels diversity method specified in the paper
+
+## Citation
+
+If you find this work useful, please cite our paper:
+````
+@misc{berg2020deep,
+    title={Deep Ordinal Regression with Label Diversity},
+    author={Axel Berg and Magnus Oskarsson and Mark O'Connor},
+    year={2020},
+    eprint={2006.15864},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
+}
+````
 
 ## References
 
