@@ -9,7 +9,7 @@
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/deep-ordinal-regression-with-label-diversity/historical-color-image-dating-on-hci)](https://paperswithcode.com/sota/historical-color-image-dating-on-hci?p=deep-ordinal-regression-with-label-diversity)
 
-This is the official codebase for the implementation of **[Deep Ordinal Regression with Label Diversity](https://arxiv.org/abs/2006.15864)**, accepted to ICPR2020.
+This is the official codebase for the implementation of **[Deep Ordinal Regression with Label Diversity](https://arxiv.org/abs/2006.15864)**, presented at ICPR2020.
 
 Code author: Axel Berg
 
@@ -47,13 +47,13 @@ The following loss functions are supported:
 
 If you find this work useful, please cite our paper:
 ````
-@misc{berg2020deep,
-    title={Deep Ordinal Regression with Label Diversity},
-    author={Axel Berg and Magnus Oskarsson and Mark O'Connor},
-    year={2020},
-    eprint={2006.15864},
-    archivePrefix={arXiv},
-    primaryClass={cs.LG}
+@inproceedings{berg2021deep,
+  title={Deep ordinal regression with label diversity},
+  author={Berg, Axel and Oskarsson, Magnus and O'Connor, Mark},
+  booktitle={2020 25th International Conference on Pattern Recognition (ICPR)},
+  pages={2740--2747},
+  year={2021},
+  organization={IEEE}
 }
 ````
 
